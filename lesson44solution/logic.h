@@ -1,9 +1,9 @@
 
 
 #include <iostream>
-#define NUMBER_OF_STUDENTS 3
+#define NUMBER_OF_MARK 5
 
 
 using namespace std;
 
-double calculate_avg(int mark1, int mark2, int mark3) ;
+double calculate_avg(int marks[NUMBER_OF_MARK]);
